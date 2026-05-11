@@ -1,2 +1,2 @@
 # yapiri-font
-A new modern script for Kokborok language of the Borok people of Tripura, other Northeastern parts of India and parts of Bangladesh.
+A new and modern Kokborok script for the Tiprasa(Borok) People, created in 2026. This is the first version of the Yapiri Script. There can be updated versions of the script in the future. Stay tuned! 
