@@ -175,4 +175,4 @@ The Yapiri script design is the intellectual work of **Animesh Debbarma**.
 
 - 🌐 [yapiriscript.com](https://yapiriscript.com)
 - 📸 Instagram: [@yapiri_script](https://instagram.com/yapiri_script)
-- 💬 WhatsApp Community: [Join here](https://yapiriscript.com/community)
+- 💬 WhatsApp Community: [Join here](https://www.whatsapp.com/channel/0029Vb7nZNk4o7qV793yfz1d)
