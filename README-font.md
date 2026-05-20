@@ -167,7 +167,7 @@ A beginner's guide to reading and writing in the Yapiri script is in development
 ## License
 
 The **Yapiri font** is released under the [SIL Open Font License 1.1](OFL.txt) — free to use, share, and modify with attribution.  
-The Yapiri script design is the intellectual work of **Animesh Debbarma (Zitorin)**.
+The Yapiri script design is the intellectual work of **Animesh Debbarma**.
 
 ---
 
