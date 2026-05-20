@@ -4,7 +4,7 @@
 [![Keyman](https://img.shields.io/badge/Keyman%20Keyboard-coming%20soon-lightgrey)](https://keyman.com)
 
 > The official font for the **Yapiri script** — a phonemic alphabet designed for the Kokborok language of the Borok people of Tripura, India.  
-> *Yapiri (ᯌᯩᯇᯤᯔᯤ) means "footprints" in Kokborok.*
+> *Yapiri means "footprints" in Kokborok.*
 
 🌐 **Project website:** [yapiriscript.com](https://yapiriscript.com)  
 📥 **Download:** [yapiriscript.com/download](https://yapiriscript.com/download)
